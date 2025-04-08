@@ -1,0 +1,6 @@
+PUT http://localhost:3000/ticket/cancelreservation/63875af001eec85acc614488
+Content-Type: application/json
+
+{
+    "status":"Available"
+}

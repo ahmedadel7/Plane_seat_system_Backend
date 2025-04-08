@@ -1,0 +1,13 @@
+POST http://localhost:3000/Reports
+Content-Type: application/json
+
+
+{
+          
+           "name":"ahmed",
+           "email":"ahmed1@gmail.com",
+           "luggage_description":"the luggage lost in cairo airport its color green",
+            "ticket_id":"63875af001eec85acc614488",
+            "flight_id":"638919c88e6d502a6a861667"
+    
+}

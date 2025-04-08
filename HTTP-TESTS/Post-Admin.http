@@ -1,0 +1,11 @@
+POST http://localhost:3000/Admins
+Content-Type: application/json
+
+{
+    "username":"Ahmedadel",
+    "email":"ahmedadel@gmail.com",
+    "password":"12345678",
+    "address":"Mokkatam",
+    "DOB":"19/7/2001",
+    "gender":"Male"
+}

@@ -1,0 +1,7 @@
+PUT http://localhost:3000/ticket/editticket/63875af001eec85acc614488
+Content-Type: application/json
+
+{
+    "date":"2-12-2022",
+    "departureTime":"1:00 pm"
+}

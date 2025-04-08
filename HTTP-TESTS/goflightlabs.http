@@ -1,0 +1,8 @@
+POST  http://localhost:3000/goflightlabs
+Content-Type: application/json
+
+{
+    "to" : "mostafagado85@gmail.com",
+    "subject" : "test",
+    "email_body" : "hello"
+}

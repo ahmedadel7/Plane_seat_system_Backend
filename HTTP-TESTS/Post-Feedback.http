@@ -1,0 +1,13 @@
+POST http://localhost:3000/Feedbacks
+Content-Type: application/json
+
+{
+    "description":"the website is perfect",
+    
+    "date":"12/12/2022",
+    "email":"ahmed1@gmail.com",
+    "Ticket_id":"638917b8a1f06b727dc317e8",
+    "customer_id":"6388e53420d112dce37a5f26"
+    
+    
+}

@@ -1,0 +1,10 @@
+POST http://localhost:3000/Complaints
+Content-Type: application/json
+
+{
+    "description":"the services are veybad",
+    "date":"12/12/2022",
+    "email":"mostafagado85@gmail.com",
+    "Ticket_id":"638917b8a1f06b727dc317e8",
+    "userName":"Mostafa"
+}
